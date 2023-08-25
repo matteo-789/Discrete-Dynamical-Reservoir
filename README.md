@@ -5,7 +5,7 @@ Each type of reservoir has its hyper-parameters to enhance the reservoir perform
 
 This library works for Python 3.8 and higher.
 
-## Quick example of how to code a CML reservoir
+## Quick example of how to code a Binary ECA reservoir
 ```python
 import Discrete_Dynamical_Reservoir as DDSR
 
@@ -42,3 +42,7 @@ pip install Discrete-Dynamical-Reservoir
 ## Paper linked to this project
 
 This project is part of my MSc project, the dissertation link to this code is available in the repository.
+
+## TBA
+
+We will implement a parallel segment of code to optimize the computation time and enhance the performance of our reservoir.
