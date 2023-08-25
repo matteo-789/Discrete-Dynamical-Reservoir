@@ -36,7 +36,7 @@ print(CARe.score(X_test, Y_test))
 
 ## Installation
 ```
-pip install disc
+pip install Discrete-Dynamical-Reservoir
 ```
 
 ## Paper linked to this project
