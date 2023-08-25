@@ -40,3 +40,5 @@ pip install disc
 ```
 
 ## Paper linked to this project
+
+This project is part of my MSc project, the dissertation link to this code is available in the repository.
